@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://furzerin.github.io/Wei//sitemap.xml
+Sitemap: https://Furzerin.github.io/Wei//sitemap.xml
